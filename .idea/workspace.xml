@@ -4,32 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03bc778c-0f7c-455e-90f6-44ed756ef0ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/templates/contract_template.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/templates/generator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/templates/home.html" afterDir="false" />
+    <list default="true" id="03bc778c-0f7c-455e-90f6-44ed756ef0ec" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/GenerateDok/media/path/to/file.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GenerateDok/templates/file/file.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/GenerateDok/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tweenex21&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tweenex21/pythonProject2.git&quot;,
+    &quot;accountId&quot;: &quot;d556a921-5039-4813-a456-6a699dc8d50d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -48,18 +41,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tweenex/pythonProject2/GenerateDok/GenerateDok&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.manage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Tweenex/pythonProject2/GenerateDok/templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\templates" />
       <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\GenerateDok" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\templates\file" />
+      <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\media" />
+      <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\media\templates\file\path" />
+      <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok" />
     </key>
   </component>
   <component name="RunManager">
@@ -103,6 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1746036435730</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1746046525799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746046525799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
