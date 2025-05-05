@@ -56,19 +56,19 @@ ROOT_URLCONF = 'GenerateDok.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates'],
+        'DIRS': [BASE_DIR / 'templates'],  # ваша папка с шаблонами
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
-                'django.template.context_processors.request',
-                'django.contrib.auth.context_processors.auth',
-                'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.request',          # обязательно
+                'django.contrib.auth.context_processors.auth',          # обязательно
+                'django.contrib.messages.context_processors.messages',  # обязательно
             ],
         },
     },
+    # Если используете Jinja2, добавьте его как отдельный backend (без этих context_processors)
 ]
-
 WSGI_APPLICATION = 'GenerateDok.wsgi.application'
 
 

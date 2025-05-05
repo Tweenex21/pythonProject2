@@ -4,7 +4,7 @@ from django.db import models
 class DocumentTemplate(models.Model):
     name = models.CharField(max_length=100)
     description = models.TextField(blank=True)
-    file = models.FileField(upload_to='templates/')  # Для .docx, .html и др.
+    file = models.FileField(upload_to='path/to/')  # Для .docx, .html и др.
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):

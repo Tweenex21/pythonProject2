@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03bc778c-0f7c-455e-90f6-44ed756ef0ec" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/GenerateDok/media/path/to/file.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateDok/templates/file/file.docx" afterDir="false" />
+    <list default="true" id="03bc778c-0f7c-455e-90f6-44ed756ef0ec" name="Changes" comment="2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenerateDok/GenerateDok/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/Dok/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/GenerateDok/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/media/path/to/file.docx" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/GenerateDok/jinja2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/templates/contract_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/templates/file/file.docx" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/jinja2_templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateDok/templates/generator.html" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/templates/generator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GenerateDok/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateDok/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +53,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Tweenex/pythonProject2/GenerateDok/templates"
+    "last_opened_file_path": "C:/Users/Tweenex/pythonProject2/GenerateDok/templates",
+    "settings.editor.selected.configurable": "promo.database"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -56,10 +63,11 @@
       <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\GenerateDok" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok" />
+      <recent name="C:\Users\Tweenex\pythonProject2" />
       <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\templates\file" />
       <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\media" />
       <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok\media\templates\file\path" />
-      <recent name="C:\Users\Tweenex\pythonProject2\GenerateDok" />
     </key>
   </component>
   <component name="RunManager">
@@ -111,11 +119,20 @@
       <option name="project" value="LOCAL" />
       <updated>1746046525799</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <option name="closed" value="true" />
+      <created>1746470728038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746470728038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
